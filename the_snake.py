@@ -1,6 +1,7 @@
 """Классическая игра «Змейка» на pygame."""
 import sys
 from random import choice, randint
+
 import pygame as pg
 
 SCREEN_WIDTH, SCREEN_HEIGHT = 640, 480
